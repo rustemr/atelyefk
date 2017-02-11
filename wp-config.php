@@ -20,19 +20,19 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'database_name_here');
+define('DB_NAME', 'fkatelyedb');
 
 /** MySQL database username */
-define('DB_USER', 'username_here');
+define('DB_USER', 'rustem');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'password_here');
+define('DB_PASSWORD', '1215fuck');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'fk2.cfzijt5thno3.us-west-2.rds.amazonaws.com:3306');
 
 /** Database Charset to use in creating database tables. */
-define('DB_CHARSET', 'utf8');
+define('DB_CHARSET', 'utf8mb4');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
-define('SECURE_AUTH_KEY',  'put your unique phrase here');
-define('LOGGED_IN_KEY',    'put your unique phrase here');
-define('NONCE_KEY',        'put your unique phrase here');
-define('AUTH_SALT',        'put your unique phrase here');
-define('SECURE_AUTH_SALT', 'put your unique phrase here');
-define('LOGGED_IN_SALT',   'put your unique phrase here');
-define('NONCE_SALT',       'put your unique phrase here');
+define('AUTH_KEY',         '6U-#)ek#meASJ_)U!ifW:E7l]%!kyQQ[wdmaijMe6>Y[Utbea)QhaN78QWXw6UPi');
+define('SECURE_AUTH_KEY',  '7`TnTd?q)NZ4+b*GPl>VEV;H*!|w3<VW,{FU`BsIl;>>J.pZ} :t&9.~V}ZB(#qo');
+define('LOGGED_IN_KEY',    ';!m 5fvb?_vkfyDt#NYW$2~:mbdv*28x0PnSOvP_i(Dp@hhm(0.$8dgB[m/kX-%&');
+define('NONCE_KEY',        '9c0n%51;_4;ZPPV$:&_#~u!_#T`>12~qFM[I0(a-!D/GiTEXMZ0ADu*;}4H*9nN)');
+define('AUTH_SALT',        '(hc[,cxZya5PI@^qOlvk:,vTt</*/o?5_zy5~eGs/C<=4CGXdt(^u3_0]27Ev-u+');
+define('SECURE_AUTH_SALT', 'cJ3$<#sgX$tLI&+lcZ}^YMr:LD*z j]6L!zAJysW8<_y`$=oW1n<];{`:k$RCbio');
+define('LOGGED_IN_SALT',   'ILDmcjm#%@!wv1*+vdQ.XO5V<dUiPX!OEpfoh5u:B}r_9Ul?6@q.h`W8*0f5bry(');
+define('NONCE_SALT',       'URXuP8mBMc}e^f+V.={_,yPl|,M>vG+kq}e?R.^bc.vOd.) 3RRS.(<Z,g3&V{%s');
 
 /**#@-*/
 

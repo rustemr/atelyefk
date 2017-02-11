@@ -26,7 +26,7 @@ define('DB_NAME', 'wpatelyefk');
 define('DB_USER', 'rustemr');
 
 /** MySQL database password */
-define('DB_PASSWORD', '1215Fuck1012!');
+define('DB_PASSWORD', '1215fuck');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
